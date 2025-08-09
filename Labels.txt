@@ -1,0 +1,15 @@
+Road Issues
+Damaged Road issues (Road cracks) - 0
+Pothole Issues - 1
+Illegal Parking Issues - 2
+Broken Road Sign Issues - 3
+
+Public Cleanliness Environmental Issues
+Fallen trees - 4
+Littering/Garbage on Public Places - 5
+Vandalism Issues - 6
+Dead Animal Pollution - 7
+
+Public Infrastructure Issues
+Damaged concrete structures - 8
+Electric wires and poles - 9
