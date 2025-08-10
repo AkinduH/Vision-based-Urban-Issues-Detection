@@ -1,0 +1,12 @@
+[project]
+name = "anonimus"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "landingai>=0.3.49",
+    "matplotlib>=3.10.5",
+    "mediapipe>=0.10.21",
+    "opencv-python>=4.11.0.86",
+]
