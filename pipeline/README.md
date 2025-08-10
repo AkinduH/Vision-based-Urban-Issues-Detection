@@ -8,22 +8,3 @@
 4. Prepare your input images in the `images` folder
 5. Run the application using the appropriate command
 6. The processed results will be saved in the `processed` folder
-
-## Important Notes
-
-- **Input**: Provide images as input files in the `images` folder
-- **Output**: You must create a folder named `processed` before running
-- Make sure both the `images` and `processed` folders exist in your project directory before execution
-
-## Usage
-
-```bash
-# Create the required folders first
-mkdir images
-mkdir processed
-
-# Then run your application
-# [Add specific run command here]
-```
-
-Remember to always create both the `images` input folder and `processed` output folder manually before running the program.
