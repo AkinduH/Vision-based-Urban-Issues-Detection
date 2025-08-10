@@ -1,0 +1,17 @@
+path: /kaggle/working/dataset # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/valid  # val images (relative to 'path')
+test: images/test  # test images (relative to 'path')
+
+# Classes
+names:
+  0: Damaged Road issues
+  1: Pothole Issues
+  2: Illegal Parking Issues
+  3: Broken Road Sign Issues
+  4: Fallen trees
+  5: Littering/Garbage on Public Places
+  6: Vandalism Issues
+  7: Dead Animal Pollution
+  8: Damaged concrete structures
+  9: Damaged Electric wires and poles
